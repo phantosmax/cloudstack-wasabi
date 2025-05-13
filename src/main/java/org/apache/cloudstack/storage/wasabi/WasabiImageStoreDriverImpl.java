@@ -1,0 +1,1 @@
+// Updated WasabiImageStoreDriverImpl.java with encryption, versioning, and object lock
